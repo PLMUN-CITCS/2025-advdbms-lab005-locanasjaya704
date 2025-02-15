@@ -1,4 +1,5 @@
+USE UniversityDB;
+
+
 DELETE FROM `Students`
-WHERE `FirstName` = 'Charlie' AND `LastName` = 'Lee';
-
-
+WHERE `FirstName` = 'Charlie' AND `LastName` = 'Lee'; 
